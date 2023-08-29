@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://coderrohit23.github.io/weather/static/css/main.3d0aa455.css",
+    "main.js": "https://coderrohit23.github.io/weather/static/js/main.49fb35d7.js",
+    "index.html": "https://coderrohit23.github.io/weather/index.html",
+    "main.3d0aa455.css.map": "https://coderrohit23.github.io/weather/static/css/main.3d0aa455.css.map",
+    "main.49fb35d7.js.map": "https://coderrohit23.github.io/weather/static/js/main.49fb35d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0aa455.css",
+    "static/js/main.49fb35d7.js"
+  ]
+}
